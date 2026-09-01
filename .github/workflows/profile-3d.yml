@@ -27,7 +27,5 @@ jobs:
           git config user.email "kimgyeongmin5348@gmail.com"
 
           git add -A .
-
           git commit -m "generated" || echo "No changes to commit"
-
           git push
