@@ -16,19 +16,13 @@
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=flat&logo=vscode&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white) |
 
 
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500">
-    </td>
+## 📊 GitHub Activity
 
-    <td align="center" valign="middle">
-      <img src="./github-stats/top-langs.svg" width="300">
-      <br>
-      <img src="./github-stats/stats.svg" width="300">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Graph">
+</p>
+
+
 <!--
 **kimgyeongmin5348/kimgyeongmin5348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
