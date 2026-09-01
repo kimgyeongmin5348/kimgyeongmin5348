@@ -4,6 +4,12 @@
 <h3>안녕하세요 게임서버, 웹 개발자 김경민입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 </h3>
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kimgyeongmin5348&show_icons=true&hide_rank=false&rank_icon=default"
+  width="330"
+  alt="GitHub Stats"
+/>
+
 ## 🛠 Tech Stack
 
 | Category | Technologies |
