@@ -4,11 +4,6 @@
 <h3>안녕하세요 게임서버, 웹 개발자 김경민입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />
 </h3>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kimgyeongmin5348&show_icons=true&hide_rank=false&rank_icon=default"
-  width="330"
-  alt="GitHub Stats"
-/>
 
 ## 🛠 Tech Stack
 
@@ -24,24 +19,13 @@
 <table>
   <tr>
     <td align="center" valign="middle">
-      <img
-        src="./profile-3d-contrib/profile-night-rainbow.svg"
-        width="550"
-        alt="3D Contribution Graph"
-      />
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="500">
     </td>
+
     <td align="center" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgyeongmin5348&layout=compact"
-        width="300"
-        alt="Top Languages"
-      />
-      <br />
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=kimgyeongmin5348&show_icons=true"
-        width="300"
-        alt="GitHub Stats"
-      />
+      <img src="./github-stats/top-langs.svg" width="300">
+      <br>
+      <img src="./github-stats/stats.svg" width="300">
     </td>
   </tr>
 </table>
