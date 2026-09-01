@@ -14,6 +14,12 @@
 | **Server & Graphics** | ![IOCP](https://custom-icon-badges.demolab.com/badge/IOCP-0078D4?style=flat&logo=server&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-0078D4?style=flat&logo=vscode&logoColor=white) ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white) |
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimgyeongmin5348)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimgyeongmin534)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="80%">
 </p>
