@@ -21,7 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
+           - name: Commit & Push
         run: |
           git config user.name "kimgyeongmin5348"
           git config user.email "kimgyeongmin5348@gmail.com"
@@ -29,5 +29,6 @@ jobs:
           git add -A .
           git commit -m "generated" || echo "No changes to commit"
 
+          git fetch origin main
           git pull --rebase origin main
           git push origin main
