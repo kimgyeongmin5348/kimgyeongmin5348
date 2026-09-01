@@ -1,5 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=김경민의%20GitHub&fontSize=42" />
 
+<div align=center>
+<h3>안녕하세요 게임서버, 웹 개발자 김경민입니다 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
 
 ## 🛠 Tech Stack
 
