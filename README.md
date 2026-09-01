@@ -17,26 +17,13 @@
 
 <table>
   <tr>
-    <td width="62%" align="center" valign="middle">
-      <img
-        src="./profile-3d-contrib/profile-night-rainbow.svg"
-        width="100%"
-        alt="3D Contribution Graph"
-      />
+    <td>
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="550">
     </td>
-
-    <td width="38%" align="center" valign="middle">
-      <img
-        src="./github-stats/top-langs.svg"
-        width="100%"
-        alt="Top Languages"
-      />
+    <td>
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300">
       <br>
-      <img
-        src="./github-stats/stats.svg"
-        width="100%"
-        alt="GitHub Stats"
-      />
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300">
     </td>
   </tr>
 </table>
