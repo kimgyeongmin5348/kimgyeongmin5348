@@ -17,13 +17,25 @@
 
 <table>
   <tr>
-    <td>
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="550">
+    <td align="center" valign="middle">
+      <img
+        src="./profile-3d-contrib/profile-night-rainbow.svg"
+        width="550"
+        alt="3D Contribution Graph"
+      />
     </td>
-    <td>
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300">
-      <br>
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="300">
+    <td align="center" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgyeongmin5348&layout=compact"
+        width="300"
+        alt="Top Languages"
+      />
+      <br />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=kimgyeongmin5348&show_icons=true"
+        width="300"
+        alt="GitHub Stats"
+      />
     </td>
   </tr>
 </table>
