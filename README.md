@@ -19,7 +19,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Graph">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="65%" alt="3D Contribution Graph">
 </p>
 
 
