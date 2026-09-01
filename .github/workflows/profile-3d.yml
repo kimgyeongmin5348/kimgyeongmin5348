@@ -28,4 +28,6 @@ jobs:
 
           git add -A .
           git commit -m "generated" || echo "No changes to commit"
-          git push
+
+          git pull --rebase origin main
+          git push origin main
