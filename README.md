@@ -1,4 +1,4 @@
-## 안녕하세요. 게임 서버, 웹 개발자 김경민 입니다.👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Gyeongmin's%20GitHub&fontSize=42" />
 
 
 ## 🛠 Tech Stack
