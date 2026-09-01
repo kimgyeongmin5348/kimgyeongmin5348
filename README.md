@@ -17,19 +17,26 @@
 
 <table>
   <tr>
-    <td width="60%" align="center" valign="middle">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg"
-           width="100%"
-           alt="3D Contribution Graph" />
+    <td width="62%" align="center" valign="middle">
+      <img
+        src="./profile-3d-contrib/profile-night-rainbow.svg"
+        width="100%"
+        alt="3D Contribution Graph"
+      />
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgyeongmin5348&layout=compact"
-           width="100%"
-           alt="Top Languages" />
+
+    <td width="38%" align="center" valign="middle">
+      <img
+        src="./github-stats/top-langs.svg"
+        width="100%"
+        alt="Top Languages"
+      />
       <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=kimgyeongmin5348&show_icons=true"
-           width="100%"
-           alt="GitHub Stats" />
+      <img
+        src="./github-stats/stats.svg"
+        width="100%"
+        alt="GitHub Stats"
+      />
     </td>
   </tr>
 </table>
